@@ -1,8 +1,8 @@
 LOCAL_PATH := device/samsung/j5xnlte
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/bliss_j5xnlte.mk
+	$(LOCAL_DIR)/xtended_j5xnlte.mk
 	
 COMMON_LUNCH_CHOICES := \
-    bliss_j5xnlte-eng \
-    bliss_j5xnlte-userdebug \
-    bliss_j5xnlte-user
+    xtended_j5xnlte-eng \
+    xtended_j5xnlte-userdebug \
+    xtended_j5xnlte-user
